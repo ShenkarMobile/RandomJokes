@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomJokes</string>
+    <string name="loading">Loading...</string>
+    <string name="downloading_joke">Downloading joke</string>
+</resources>
